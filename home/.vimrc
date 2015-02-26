@@ -2,6 +2,9 @@
 "  Doug's VIM initialization file
 "
 
+" Load modules in .vim/bundles
+" See https://github.com/tpope/vim-pathogen
+execute pathogen#infect()
 
 " - - - - - - 
 " Set up the display: reverse video, rather large display
