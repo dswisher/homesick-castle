@@ -6,7 +6,7 @@ A castle for the [homesick](https://github.com/technicalpickles/homesick) gem to
 Install
 -------
 
-        $ gem install homesick
+        $ sudo gem install homesick
         $ homesick clone https://github.com/dswisher/homesick-castle.git
         $ homesick symlink homesick-castle
 
